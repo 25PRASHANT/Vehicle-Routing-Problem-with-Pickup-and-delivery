@@ -1,0 +1,2 @@
+# Vehicle-Routing-Problem-with-Pickup-and-delivery
+Pickup-and-Delivery Problems (PDPs) constitute an important family of routing problems in which goods or passengers have to be transported from different origins to different destinations. These problems are usually defined on a graph in which vertices represent origins or destinations for the different entities (or commodities) to be transported.
